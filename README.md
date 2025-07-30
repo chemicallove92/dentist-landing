@@ -1,4 +1,4 @@
-# 🦷 Landing Page de Demostración para Dentistas
+# 🦷 Landing Page para Dentistas
 
 ¡Aquí encontrarás el código fuente de una **landing page** diseñada específicamente para profesionales y clínicas dentales. Es una plantilla versátil y fácil de usar, perfecta para presentar servicios, información de contacto, y más.
 
