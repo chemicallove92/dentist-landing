@@ -33,6 +33,6 @@ Una vez que tengas los archivos, puedes modificarlos con tu editor de texto favo
 
 Si esta plantilla te fue útil o simplemente quieres apoyar mi esfuerzo para seguir creando recursos como este, ¡te lo agradecería enormemente! Puedes invitarme un café en Ko-fi:
 
-**[☕ Apóyame en Ko-fi]([https://ko-fi.com/igs92](https://ko-fi.com/post/dentist-landing-Z8Z01IUK1L)**
+**[☕ Apóyame en Ko-fi](https://ko-fi.com/post/dentist-landing-Z8Z01IUK1L)**
 
 ---
